@@ -17,7 +17,10 @@ Our mission is to empower researchers with accessible, high-performance, and mod
 - **[rstudio-server](https://github.com/riverxdata/data-sw-rstudio)**: Rstudio server for working with HPC remotely
 - **[jupyterlab](https://github.com/riverxdata/data-sw-jupyterlab)**: Jupyterlab server for working with HPC remotely
 #### Bioinformatics
+**GWAS**
 - **[bioinfor-wf-nipt-human-genetics](https://github.com/riverxdata/bioinfor-wf-nipt-human-genetics)**: A workflow for performing GWAS analysis using NIPT sequencing data
+- **[UKB-RAP-Notebooks-Genomics](https://github.com/riverxdata/UKB-RAP-Notebooks-Genomics)**: The notebooks for working with UKB-RAP- a largest human WES/WGS biobank data platform.
+
 #### NF-core ecosystem:
 - **[sarek](https://nf-co.re/sarek)**: Variant calling pipeline for germline and somatic variants from whole genome, exome, or targeted sequencing data. Supports tumor/normal analyses.
 - **[rnaseq](https://nf-co.re/rnaseq)**: RNA-seq processing pipeline that includes quality control, alignment or pseudo-alignment, quantification, and generation of gene expression matrices.
