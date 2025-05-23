@@ -35,7 +35,7 @@ Our mission is to empower researchers with accessible, high-performance, and mod
 - 
 #### AI and ML
 - **[smartsensor](https://github.com/riverxdata/smartsensor)**: The sensor utilizes a smartphone camera with machine learning to analyze and characterize chemical compounds.
-
+- **[enhancer-predictor](https://github.com/riverxdata/enhancer-predictor)**: The pipeline to predict the enhancer
 ## 🤝 Contributions  
 
 We welcome contributions from the community! Whether it's bug fixes, feature suggestions, or documentation improvements, every contribution helps drive bioinformatics research forward.
