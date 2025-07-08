@@ -2,6 +2,7 @@
 RiverXData is an open-source initiative focused on driving innovation in bioinformatics, and multiomics research. 
 We build scalable tools, workflows, and libraries designed to support complex experimental designs across bioinformatics applications. 
 Our mission is to empower researchers with accessible, high-performance, and modern solutions for data analysis and integrative multiomics.
+Contact for work: nttg8100@gmail.com
 
 
 ## 🌟 Key Projects  
